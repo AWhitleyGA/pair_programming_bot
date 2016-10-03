@@ -1,0 +1,28 @@
+body {
+  background: black;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+.buttons {
+  width: 40%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+a {
+  display: block;
+  height: 40px;
+  width: 80px;
+  color: white;
+}
+
+.b1 {
+  background: green;
+}
+.b2 {
+  background: red;
+}
